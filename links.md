@@ -30,4 +30,4 @@ Markdown-Cheatsheet von Adam Pritchard:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Markdown-Cheatsheet
 CommonMark Spezifikation:
-https://commonmark.org/
+https://commonmark.org/ 
