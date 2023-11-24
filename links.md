@@ -32,6 +32,3 @@ Markdown-Cheatsheet
 CommonMark Spezifikation:
 <<<<<<< HEAD
 https://commonmark.org/
-=======
-https://commonmark.org/
->>>>>>> b07d1dc496e50dccd5dbf056036cc19d0b3a717c
