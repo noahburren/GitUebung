@@ -30,4 +30,8 @@ Markdown-Cheatsheet von Adam Pritchard:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Markdown-Cheatsheet
 CommonMark Spezifikation:
-https://commonmark.org/ 
+<<<<<<< HEAD
+https://commonmark.org/
+=======
+https://commonmark.org/
+>>>>>>> b07d1dc496e50dccd5dbf056036cc19d0b3a717c
